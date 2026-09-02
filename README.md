@@ -27,7 +27,7 @@ Division
 
 The analysis compares sales performance across 2019, 2020 and 2021.
 
-2. New Products Analysis
+2. New Products Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/New%20Products.png
 
 Analysed newly introduced products and compared their Net Sales performance across:
 
