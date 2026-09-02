@@ -79,7 +79,7 @@ Atliq-Sales-Analysis/
 
 ![New Products Analysis](https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/New%20Products.png)
 
-![Top 5 Products] https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Products.png)
+![Top 5 Products](https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Products.png)
 
 ![Detailed Customer & Product Analysis](https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Detailed%20Analysis.png)
 
