@@ -70,7 +70,6 @@ Atliq-Sales-Analysis/
 ├── Detailed Analysis.png
 └── README.md
 
-Note: The file and image names above should match the actual names you use in your GitHub repository.
 
 📸 Project Preview
 Top 5 Countries
