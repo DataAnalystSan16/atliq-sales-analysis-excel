@@ -38,7 +38,7 @@ Analysed newly introduced products and compared their Net Sales performance acro
 
 Identified top-performing products based on Net Sales and compared their performance across multiple years.
 
-4. Detailed Customer & Product Analysis
+4. Detailed Customer & Product Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Detailed%20Analysis.png
 
 The detailed analysis provides a deeper view of:
 
