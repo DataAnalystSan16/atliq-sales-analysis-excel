@@ -18,7 +18,7 @@ How are newly introduced products performing?
 Which customers, markets and regions contribute to sales performance?
 Which products show significant changes in sales compared with the previous year?
 📊 Analysis Performed
-1. Top 5 Countries by Net Sales
+1. Top 5 Countries by Net Sales https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Countries.png
 
 Analysed the top-performing countries based on Net Sales, with the ability to view the results by:
 
