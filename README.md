@@ -17,6 +17,7 @@ How have sales changed across 2019, 2020 and 2021?
 How are newly introduced products performing?
 Which customers, markets and regions contribute to sales performance?
 Which products show significant changes in sales compared with the previous year?
+
 📊 Analysis Performed
 1. Top 5 Countries by Net Sales
 
@@ -51,6 +52,7 @@ Net Sales 2019
 Net Sales 2020
 Net Sales 2021
 2021 vs 2020 percentage comparison
+
 🛠️ Tools & Skills Used
 Microsoft Excel
 PivotTables
@@ -60,6 +62,7 @@ Year-over-year comparison
 Conditional formatting
 Sales performance analysis
 Business reporting
+
 📁 Project Structure
 Atliq-Sales-Analysis/
 │
@@ -78,7 +81,7 @@ New Products Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-e
 
 Top 5 Products https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Products.png
 
-Detailed Customer & Product Analysis
+Detailed Customer & Product Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Detailed%20Analysis.png
 
 💡 Key Learning
 
