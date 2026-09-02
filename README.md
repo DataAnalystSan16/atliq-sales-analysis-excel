@@ -75,13 +75,13 @@ Atliq-Sales-Analysis/
 
 
 📸 Project Preview
-Top 5 Countries https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Countries.png
+![Top 5 Countries] (https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Countries.png)
 
-New Products Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/New%20Products.png
+![New Products Analysis] (https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/New%20Products.png)
 
-Top 5 Products https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Products.png
+![Top 5 Products] (https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Products.png)
 
-Detailed Customer & Product Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Detailed%20Analysis.png
+![Detailed Customer & Product Analysis] (https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Detailed%20Analysis.png)
 
 💡 Key Learning
 
