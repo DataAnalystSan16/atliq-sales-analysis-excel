@@ -34,7 +34,7 @@ Analysed newly introduced products and compared their Net Sales performance acro
 2019
 2020
 2021
-3. Top 5 Products Analysis
+3. Top 5 Products Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Products.png
 
 Identified top-performing products based on Net Sales and compared their performance across multiple years.
 
