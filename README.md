@@ -74,7 +74,7 @@ Atliq-Sales-Analysis/
 📸 Project Preview
 Top 5 Countries https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Countries.png
 
-New Products Analysis
+New Products Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/New%20Products.png
 
 Top 5 Products
 
