@@ -18,7 +18,7 @@ How are newly introduced products performing?
 Which customers, markets and regions contribute to sales performance?
 Which products show significant changes in sales compared with the previous year?
 📊 Analysis Performed
-1. Top 5 Countries by Net Sales https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Countries.png
+1. Top 5 Countries by Net Sales
 
 Analysed the top-performing countries based on Net Sales, with the ability to view the results by:
 
@@ -27,18 +27,18 @@ Division
 
 The analysis compares sales performance across 2019, 2020 and 2021.
 
-2. New Products Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/New%20Products.png
+2. New Products Analysis
 
 Analysed newly introduced products and compared their Net Sales performance across:
 
 2019
 2020
 2021
-3. Top 5 Products Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Products.png
+3. Top 5 Products Analysis
 
 Identified top-performing products based on Net Sales and compared their performance across multiple years.
 
-4. Detailed Customer & Product Analysis https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Detailed%20Analysis.png
+4. Detailed Customer & Product Analysis
 
 The detailed analysis provides a deeper view of:
 
@@ -72,7 +72,7 @@ Atliq-Sales-Analysis/
 
 
 📸 Project Preview
-Top 5 Countries
+Top 5 Countries https://github.com/DataAnalystSan16/atliq-sales-analysis-excel/blob/main/Top%205%20Countries.png
 
 New Products Analysis
 
